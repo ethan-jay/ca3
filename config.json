@@ -1,0 +1,7 @@
+{
+"weatherAPIkey":"[redacted]",
+"newsAPIkey":"[redacted]",
+"PublicHealthAPIlink":"https://api.coronavirus.data.gov.uk/v2/data?areaType=ltla&areaCode=E07000041&metric=cumDeaths28DaysByPublishDate&metric=cumCasesByPublishDate&format=json",
+"city":"Exeter",
+"countrycode":"gb"
+}
